@@ -1,6 +1,7 @@
-# AutoMerge_Server
-AutoMerge: A Framework for Map Assembling and Smoothing in City-scale Environments
-
+:sectnums:
+:sectnumlevels: 1
+:toc: macro
+:toclevels: 2
 
 ifdef::env-github[]
 image:https://img.youtube.com/vi/6wZvEjBXfBA/maxresdefault.jpg[link=https://youtu.be/6wZvEjBXfBA]
@@ -9,3 +10,6 @@ endif::[]
 ifndef::env-github[]
 video::rAteGra5-xM[youtube]
 endif::[]
+
+== Overview
+AutoMerge is an autonamous multi-agent map merging system, which can provide offline/online data association and global mapping estimation without any GPS assistance. The AutoMerge server platform will provide the service for AutoMerge, where users can upload individual trajectory segments, and AutoMerge can help generate the target global map.
