@@ -7,5 +7,5 @@ image:https://img.youtube.com/vi/6wZvEjBXfBA/maxresdefault.jpg[link=https://yout
 endif::[]
 
 ifndef::env-github[]
-video::6wZvEjBXfBA[youtube]
+video::rAteGra5-xM[youtube]
 endif::[]
