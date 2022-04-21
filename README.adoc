@@ -1,0 +1,11 @@
+# AutoMerge_Server
+AutoMerge: A Framework for Map Assembling and Smoothing in City-scale Environments
+
+
+ifdef::env-github[]
+image:https://img.youtube.com/vi/6wZvEjBXfBA/maxresdefault.jpg[link=https://youtu.be/6wZvEjBXfBA]
+endif::[]
+
+ifndef::env-github[]
+video::6wZvEjBXfBA[youtube]
+endif::[]
