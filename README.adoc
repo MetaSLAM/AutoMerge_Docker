@@ -7,6 +7,10 @@ ifdef::env-github[]
 image:https://img.youtube.com/vi/6wZvEjBXfBA/maxresdefault.jpg[link=https://youtu.be/6wZvEjBXfBA]
 endif::[]
 
+ifdef::env-github[]
+image:https://img.youtube.com/vi/xS24fzNLly0/maxresdefault.jpg[link=https://youtu.be/xS24fzNLly0]
+endif::[]
+
 ifndef::env-github[]
 video::rAteGra5-xM[youtube]
 endif::[]
