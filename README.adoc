@@ -16,4 +16,4 @@ video::rAteGra5-xM[youtube]
 endif::[]
 
 == Overview
-AutoMerge is an autonamous multi-agent map merging system, which can provide offline/online data association and global mapping estimation without any GPS assistance. The AutoMerge server platform will provide the service for AutoMerge, where users can upload individual trajectory segments, and AutoMerge can help generate the target global map.
+AutoMerge is an autonomous multi-agent map merging system, which can provide offline/online data association and global mapping estimation without any GPS assistance. The AutoMerge server platform will provide the service for AutoMerge, where users can upload individual trajectory segments, and AutoMerge can help generate the target global map.
