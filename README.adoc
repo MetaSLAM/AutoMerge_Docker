@@ -29,6 +29,7 @@ And we are also think about expending the supports for visual odometry long larg
 
 * *https://github.com/UZ-SLAMLab/ORB_SLAM3*
 * *https://github.com/HKUST-Aerial-Robotics/VINS-Mono*
+* *https://github.com/uzh-rpg/rpg_svo_pro_open*
 * *https://github.com/KumarRobotics/msckf_vio*
 
 == Citation
