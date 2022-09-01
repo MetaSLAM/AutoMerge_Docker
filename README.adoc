@@ -17,3 +17,16 @@ endif::[]
 
 == Overview
 AutoMerge is an autonomous multi-agent map merging system, which can provide offline/online data association and global mapping estimation without any GPS assistance. The AutoMerge server platform will provide the service for AutoMerge, where users can upload individual trajectory segments, and AutoMerge can help generate the target global map.
+
+== Supports
+In the release version of AutoMerge, we will support the following LiDAR odometry:
+
+* *https://github.com/hku-mars/FAST_LIO*
+* *https://github.com/TixiaoShan/LIO-SAM*
+* *https://github.com/RobustFieldAutonomyLab/LeGO-LOAM*
+
+And we are also think about expending the supports for visual odometry long large-scale map merging, the potential list includes:
+
+* *https://github.com/UZ-SLAMLab/ORB_SLAM3*
+* *https://github.com/HKUST-Aerial-Robotics/VINS-Mono*
+
